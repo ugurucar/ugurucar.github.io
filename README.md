@@ -1,2 +1,2 @@
 # Uğur Uçar
-https://github.com/ugurucar/ugurucar.github.io/issues/1#issue-775545378
+https://raw.githubusercontent.com/ugurucar/ugurucar.github.io/main/Uğur%20Uçar.jpg
